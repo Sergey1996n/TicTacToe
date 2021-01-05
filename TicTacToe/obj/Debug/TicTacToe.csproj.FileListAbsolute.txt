@@ -1,0 +1,15 @@
+C:\Users\Sergey\source\repos\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Sergey\source\repos\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Sergey\source\repos\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Sergey\source\repos\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Sergey\source\repos\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Sergey\source\repos\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Sergey\source\repos\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Sergey\source\repos\TicTacToe\obj\Debug\TicTacToe.fStatistic.resources
+C:\Users\Sergey\source\repos\TicTacToe\obj\Debug\TicTacToe.fParameters.resources
+C:\Users\Sergey\source\repos\TicTacToe\obj\Debug\TicTacToe.fAboutBox.resources
+C:\Users\Sergey\source\repos\TicTacToe\obj\Debug\TicTacToe.fMain.resources
+C:\Users\Sergey\source\repos\TicTacToe\obj\Debug\TicTacToe.fChangeLayout.resources
+C:\Users\Sergey\source\repos\TicTacToe\bin\Debug\Resources\Help.chm
